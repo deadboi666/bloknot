@@ -1,0 +1,10 @@
+D:\Проэкты\блокнот\блокнот\obj\Debug\блокнот.csprojAssemblyReference.cache
+D:\Проэкты\блокнот\блокнот\obj\Debug\блокнот.Form1.resources
+D:\Проэкты\блокнот\блокнот\obj\Debug\блокнот.Properties.Resources.resources
+D:\Проэкты\блокнот\блокнот\obj\Debug\блокнот.csproj.GenerateResource.cache
+D:\Проэкты\блокнот\блокнот\obj\Debug\блокнот.csproj.CoreCompileInputs.cache
+D:\Проэкты\блокнот\блокнот\bin\Debug\блокнот.exe.config
+D:\Проэкты\блокнот\блокнот\bin\Debug\блокнот.exe
+D:\Проэкты\блокнот\блокнот\bin\Debug\блокнот.pdb
+D:\Проэкты\блокнот\блокнот\obj\Debug\блокнот.exe
+D:\Проэкты\блокнот\блокнот\obj\Debug\блокнот.pdb
